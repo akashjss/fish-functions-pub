@@ -1,2 +1,2 @@
 # fish-functions-pub
-useful fish fuctions 
+Useful fish fuctions from my stash. They work from a Linux terminal. 
