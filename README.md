@@ -1,2 +1,2 @@
 # fish-functions-pub
-useul fish fuctions 
+useful fish fuctions 
